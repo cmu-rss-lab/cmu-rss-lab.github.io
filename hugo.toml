@@ -1,0 +1,12 @@
+baseURL = "https://cmu-rss-lab.github.io"
+languageCode = "en-us"
+title = "Robot Software Systems Lab"
+theme = "terminal"
+
+[params]
+  centerTheme = true
+  showLanguageSelector = false
+  themeColor = "orange"
+
+[params.Logo]
+  logoText = "Robot Software Systems Lab @ CMU"
